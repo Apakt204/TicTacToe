@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=MemoryBoard
+comment1.params=n
+comment1.target=MemoryBoard(int)
+comment2.params=
+comment2.target=char\ getCurrentPlayer()
+comment3.params=
+comment3.target=void\ initializeBoard()
+comment4.params=row\ column
+comment4.target=boolean\ placeMark(int,\ int)
+comment5.params=
+comment5.target=void\ changePlayer()
+comment6.params=
+comment6.target=boolean\ isWinner()
+comment7.params=
+comment7.target=boolean\ isBoardFull()
+numComments=8
